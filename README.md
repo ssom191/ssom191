@@ -2,7 +2,9 @@
 I like finding the story hidden inside data.
 Sometimes that story is about operational bottlenecks.  
 Sometimes it is about consumer behaviour, uncertainty, forecasting, or why a “perfect” model quietly falls apart in the real world.
+
 My background started in finance, wandered into business analytics, got briefly obsessed with supply chains, and eventually settled into something broader: understanding how data reflects decisions, systems, and people.
+
 What interests me most is not just analysing information, but figuring out what it is really trying to say because every analysis eventually comes down to the same question: “So what?”
 
 ---
@@ -17,7 +19,8 @@ What interests me most is not just analysing information, but figuring out what 
 ---
 ## 🌱 What I do
 I enjoy turning messy datasets into structured insights and meaningful narratives.
-My work usually involves scenario analysis, forecasting, operational analytics, and identifying the behavioural patterns hidden within data. I like building analyses that people can actually trust and use, which means translating technical findings into business language, presenting trade-offs honestly, and focusing less on “perfect answers” and more on better decisions.
+My work usually involves scenario analysis, forecasting, operational analytics, and identifying the behavioural patterns hidden within data. I like building analyses that people can actually trust and use, aka translating technical findings into business language, presenting trade-offs honestly, and focusing less on “perfect answers” and more on better decisions.
+
 Also, I tend to ask “why?” probably more often than necessary.
 
 ---
@@ -27,7 +30,6 @@ Also, I tend to ask “why?” probably more often than necessary.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
