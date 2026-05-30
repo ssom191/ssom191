@@ -1,30 +1,24 @@
 ## Kia Ora, Shreya here 👋
 I like finding the story hidden inside data.
 
-Sometimes that story is about operational bottlenecks. 
-
-Sometimes it is about consumer behaviour, operational bottlenecks, reporting systems, supply chains, or why two departments can look at the same metric and arrive at completely different conclusions.
+Sometimes that story is about why customers leave. <br>
+Sometimes it's about why a supply chain behaves perfectly in theory and then promptly refuses to cooperate in reality. <br>
+Sometimes it's about consumer behaviour, operational bottlenecks, public policy, or why two departments can look at the same number and swear it means completely different things.
 
 My background started in finance, wandered into business analytics, got briefly obsessed with supply chains, and eventually settled into something broader: understanding how data reflects decisions, systems, and people.
 
 What interests me most is not just analysing information, but figuring out what it is really trying to say because every analysis eventually comes down to the same question: “So what?”
 
 ---
-## 🔭 Areas I enjoy exploring
-- Business and operational decision-making
-- Consumer behaviour and patterns
-- Data management, reporting, and governance
-- Financial and supply chain analytics
-- Forecasting and uncertainty
-- Public policy and economic analysis
-- Data storytelling and insight communication
-
----
 ## 🌱 What I do
-I enjoy turning messy datasets into structured insights and meaningful narratives.
-My work spans customer analytics, supply chain optimization, business intelligence, statistical modelling, reporting automation, and operational decision support. Whether I'm segmenting customers, optimizing logistics networks, analysing market behaviour, or designing reporting frameworks, I enjoy connecting technical analysis to real business decisions.
+I enjoy sitting at the intersection of business problems and analytical curiosity.
 
-I care less about finding the "perfect" model and more about building analyses that people can actually trust, understand, and use.
+Some projects have involved segmenting bank customers and predicting churn. Others explored how augmented reality changes consumer behaviour, how HIV supply chains support public health outcomes, where an express hub should be located, or how reporting environments evolve into a single source of truth.
+
+The common thread is that I'm usually less interested in the model itself than in the decision sitting behind it.
+
+I like analysis that helps someone choose between competing priorities, understand trade-offs, or ask better questions than the ones they started with.
+
 Also, I tend to ask “why?” probably more often than necessary.
 
 ---
@@ -38,27 +32,19 @@ Also, I tend to ask “why?” probably more often than necessary.
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
 ![IBM SPSS](https://img.shields.io/badge/IBM%20SPSS-052FAD?style=for-the-badge)
 ![Talend](https://img.shields.io/badge/Talend-FF6D00?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
-
-### 🚚 Global Express Hub Optimization
-
-Optimizing freight network design through scenario modelling, cost analysis, and service-level trade-off evaluation.
-
-**Tools:** Python · Excel · Power BI
-🔗 [View Repository](https://github.com/ssom191/Global_ExpressHub_Optimization_Python)
-
----
+## 🗃 What I've worked on:
 
 ### 🏦 Banking Customer Analytics
 
-Customer segmentation, activity modelling, and churn prediction using clustering, regression analysis, and statistical validation.
+Customer segmentation, activity modelling, and churn prediction to support retention strategies and customer lifecycle management in a retail banking environment.
 
-**Tools:** IBM SPSS · Statistical Analysis · Predictive Modelling
-🔗 [View Repository](https://github.com/ssom191/Banking-Customer-Analytics_SPSS)
+**Tools & Techniques:** IBM SPSS · Two-Step Clustering · ANOVA · Chi-Square Testing · Linear Regression · Logistic Regression
+
+🔗 Repository:
+https://github.com/ssom191/Banking-Customer-Analytics_SPSS
 
 ---
 
@@ -66,38 +52,89 @@ Customer segmentation, activity modelling, and churn prediction using clustering
 
 A case study inspired by real-world experience supporting Talend ETL workflows, reporting automation, KPI governance, and centralized reporting environments.
 
-**Tools:** Talend · SQL · Power BI · Excel
-🔗 [View Repository](https://github.com/ssom191/Centralized-Reporting-and-Data-Integration_talendETL)
+**Tools & Techniques:** Talend Open Studio · SQL · Power BI · Excel · ETL Workflows · Data Governance
+
+🔗 Repository:
+https://github.com/ssom191/Centralized-Reporting-and-Data-Integration_talendETL
+
+---
+
+### 🚚 Global Express Hub Optimization
+
+Evaluating freight trade-offs, service levels, and network design decisions to identify an optimal express distribution hub strategy.
+
+**Tools & Techniques:** Python · Network Optimization · Scenario Analysis · Supply Chain Analytics · Power BI
+
+🔗 Repository:
+https://github.com/ssom191/Global_ExpressHub_Optimization_Python
+
+---
+
+### [💄 AR-Driven Conspicuous Consumption Research Paper](https://www.degruyterbrill.com/document/doi/10.1515/9783110790146-009/html)
+
+Published research examining how augmented reality influences conspicuous cosmetic consumption behaviour across consumer segments.
+
+**Tools & Techniques:** IBM SPSS · K-Means Clustering · ANOVA · Consumer Behaviour Research · Statistical Analysis
+
+🔗 Repository:
+https://github.com/ssom191/ARDriven_ConspicuousConsumption_SPSS
+
+---
+
+### 🏀 NBA Talent Analytics
+
+Using player, salary, and college performance data to identify recruitment benchmarks and evaluate the impact of team changes on performance.
+
+**Tools & Techniques:** Python · Clustering · Statistical Analysis · Sports Analytics · Data Visualization
+
+🔗 Repository:
+https://github.com/ssom191/NBA_TalentAnalytics_Python
+
+---
+
+### 🌍 USAID HIV Supply Chain Analytics
+
+Investigating how healthcare supply chains support HIV testing, treatment accessibility, and public health outcomes across African nations.
+
+**Tools & Techniques:** Power BI · PCA · Clustering · Supply Chain Analytics · Public Health Analytics
+
+🔗 Repository:
+https://github.com/ssom191/USAID_HIV_SupplyChainAnalytics
 
 ---
 
 ### 📊 AdventureWorks Product Analytics
 
-Business intelligence and product performance analysis using SQL, SSAS cubes, OLAP concepts, and Excel PivotTables.
+Business intelligence project applying SQL, OLAP concepts, and multidimensional modelling to explore customer, sales, and product performance.
 
-**Tools:** SQL Server · SSMS · SSAS · Excel
-🔗 [View Repository](https://github.com/ssom191/AdventureWorks_ProductAnalytics_SQL)
+**Tools & Techniques:** SQL Server · SSMS · SSAS Cubes · OLAP · Excel PivotTables
 
----
-
-### 📚 [Published Research Paper]((https://www.degruyterbrill.com/document/doi/10.1515/9783110790146-009/html)
-
-Research exploring how Augmented Reality influences conspicuous cosmetic consumption behaviour, published by De Gruyter.
-
-**Tools:** IBM SPSS · ANOVA · Cluster Analysis · Research Methods
-🔗 [View Repository](https://github.com/ssom191/ARDriven_ConspicuousConsumption_SPSS)
+🔗 Repository:
+https://github.com/ssom191/AdventureWorks_ProductAnalytics_SQL
 
 ---
 
-## 🤔 Current analytical rabbit holes
+### 🌐 Digital Economy Analysis
+
+Power BI project exploring digital economy trends, technology adoption, and socioeconomic patterns through interactive dashboarding and visual analytics.
+
+**Tools & Techniques:** Power BI · DAX · Data Visualization · Economic Analysis
+
+🔗 Repository:
+https://github.com/ssom191/DigitalEconomy_Analysis_PowerBI
+
+
+---
+
+## 🤔What fields I enjoy exploring
 
 * Decision-making under uncertainty
 * Behavioural economics
+* Supply chain resilience and network design
 * Data governance and trusted reporting
 * Why dashboards fail despite having "good data"
 * Systems thinking and operational complexity
 * Data storytelling that people actually remember
-
 
 ---
 
