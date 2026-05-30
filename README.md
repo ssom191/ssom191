@@ -37,91 +37,67 @@ Also, I tend to ask “why?” probably more often than necessary.
 
 ## 🗃 What I've worked on:
 
-### 🏦 Banking Customer Analytics
+### [🏦 Banking Customer Analytics](https://github.com/ssom191/Banking-Customer-Analytics_SPSS)
 
 Customer segmentation, activity modelling, and churn prediction to support retention strategies and customer lifecycle management in a retail banking environment.
 
 **Tools & Techniques:** IBM SPSS · Two-Step Clustering · ANOVA · Chi-Square Testing · Linear Regression · Logistic Regression
 
-🔗 Repository:
-https://github.com/ssom191/Banking-Customer-Analytics_SPSS
-
 ---
 
-### 🏢 Centralized Reporting & Data Integration
+### [🏢 Centralized Reporting & Data Integration](https://github.com/ssom191/Centralized-Reporting-and-Data-Integration_talendETL)
 
 A case study inspired by real-world experience supporting Talend ETL workflows, reporting automation, KPI governance, and centralized reporting environments.
 
 **Tools & Techniques:** Talend Open Studio · SQL · Power BI · Excel · ETL Workflows · Data Governance
 
-🔗 Repository:
-https://github.com/ssom191/Centralized-Reporting-and-Data-Integration_talendETL
-
 ---
 
-### 🚚 Global Express Hub Optimization
+### [🚚 Global Express Hub Optimization](https://github.com/ssom191/Global_ExpressHub_Optimization_Python)
 
 Evaluating freight trade-offs, service levels, and network design decisions to identify an optimal express distribution hub strategy.
 
 **Tools & Techniques:** Python · Network Optimization · Scenario Analysis · Supply Chain Analytics · Power BI
 
-🔗 Repository:
-https://github.com/ssom191/Global_ExpressHub_Optimization_Python
-
 ---
 
-### [💄 AR-Driven Conspicuous Consumption Research Paper](https://www.degruyterbrill.com/document/doi/10.1515/9783110790146-009/html)
+### [💄 AR-Driven Conspicuous Consumption Research Paper](https://github.com/ssom191/ARDriven_ConspicuousConsumption_SPSS)
 
 Published research examining how augmented reality influences conspicuous cosmetic consumption behaviour across consumer segments.
 
 **Tools & Techniques:** IBM SPSS · K-Means Clustering · ANOVA · Consumer Behaviour Research · Statistical Analysis
 
-🔗 Repository:
-https://github.com/ssom191/ARDriven_ConspicuousConsumption_SPSS
-
 ---
 
-### 🏀 NBA Talent Analytics
+### [🏀 NBA Talent Analytics](https://github.com/ssom191/NBA_TalentAnalytics_Python)
 
 Using player, salary, and college performance data to identify recruitment benchmarks and evaluate the impact of team changes on performance.
 
 **Tools & Techniques:** Python · Clustering · Statistical Analysis · Sports Analytics · Data Visualization
 
-🔗 Repository:
-https://github.com/ssom191/NBA_TalentAnalytics_Python
-
 ---
 
-### 🌍 USAID HIV Supply Chain Analytics
+### [🌍 USAID HIV Supply Chain Analytics](https://github.com/ssom191/USAID_HIV_SupplyChainAnalytics)
 
 Investigating how healthcare supply chains support HIV testing, treatment accessibility, and public health outcomes across African nations.
 
 **Tools & Techniques:** Power BI · PCA · Clustering · Supply Chain Analytics · Public Health Analytics
 
-🔗 Repository:
-https://github.com/ssom191/USAID_HIV_SupplyChainAnalytics
-
 ---
 
-### 📊 AdventureWorks Product Analytics
+### [📊 AdventureWorks Product Analytics](https://github.com/ssom191/AdventureWorks_ProductAnalytics_SQL)
 
 Business intelligence project applying SQL, OLAP concepts, and multidimensional modelling to explore customer, sales, and product performance.
 
 **Tools & Techniques:** SQL Server · SSMS · SSAS Cubes · OLAP · Excel PivotTables
 
-🔗 Repository:
-https://github.com/ssom191/AdventureWorks_ProductAnalytics_SQL
-
 ---
 
-### 🌐 Digital Economy Analysis
+### [🌐 Digital Economy Analysis](https://github.com/ssom191/DigitalEconomy_Analysis_PowerBI)
 
 Power BI project exploring digital economy trends, technology adoption, and socioeconomic patterns through interactive dashboarding and visual analytics.
 
 **Tools & Techniques:** Power BI · DAX · Data Visualization · Economic Analysis
-
-🔗 Repository:
-https://github.com/ssom191/DigitalEconomy_Analysis_PowerBI
 
 
 ---
