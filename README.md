@@ -39,7 +39,7 @@ Also, I tend to ask “why?” probably more often than necessary.
 
 ### [🏦 Banking Customer Analytics](https://github.com/ssom191/Banking-Customer-Analytics_SPSS)
 
-Customer segmentation, activity modelling, and churn prediction to support retention strategies and customer lifecycle management in a retail banking environment.
+Customer segmentation, activity modelling, and churn prediction using supervised and unsupervised machine learning techniques, to support retention strategies and customer lifecycle management in a retail banking environment.
 
 **Tools & Techniques:** IBM SPSS · Two-Step Clustering · ANOVA · Chi-Square Testing · Linear Regression · Logistic Regression
 
@@ -55,7 +55,7 @@ A case study inspired by real-world experience supporting Talend ETL workflows, 
 
 ### [🚚 Global Express Hub Optimization](https://github.com/ssom191/Global_ExpressHub_Optimization_Python)
 
-Evaluating freight trade-offs, service levels, and network design decisions to identify an optimal express distribution hub strategy.
+Evaluating freight trade-offs, service levels, and network design decisions to identify an optimal express distribution hub strategy for Industry project.
 
 **Tools & Techniques:** Python · Network Optimization · Scenario Analysis · Supply Chain Analytics · Power BI
 
@@ -63,7 +63,7 @@ Evaluating freight trade-offs, service levels, and network design decisions to i
 
 ### [💄 AR-Driven Conspicuous Consumption Research Paper](https://github.com/ssom191/ARDriven_ConspicuousConsumption_SPSS)
 
-Published research examining how augmented reality influences conspicuous cosmetic consumption behaviour across consumer segments.
+Published research examining how augmented reality influences conspicuous cosmetic consumption behaviour across young working consumer segments in India.
 
 **Tools & Techniques:** IBM SPSS · K-Means Clustering · ANOVA · Consumer Behaviour Research · Statistical Analysis
 
@@ -118,6 +118,6 @@ Power BI project exploring digital economy trends, technology adoption, and soci
 
 ---
 
-📍 Auckland, New Zealand
-🔗 LinkedIn: [Shreya-Soman](http://www.linkedin.com/in/shreya-soman)
+📍 Auckland, New Zealand <br>
+🔗 LinkedIn: [Shreya-Soman](http://www.linkedin.com/in/shreya-soman) <br>
 📫 Email: [shreya.soman07@gmail.com](mailto:shreya.soman07@gmail.com)
